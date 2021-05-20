@@ -1,0 +1,7 @@
+C:\Users\thoma\source\repos\loCar\loCar\Server\obj\Debug\netcoreapp3.1\loCar.Server.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\loCar\loCar\Server\obj\Debug\netcoreapp3.1\loCar.Server.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\loCar\loCar\Server\obj\Debug\netcoreapp3.1\loCar.Server.AssemblyInfo.cs
+C:\Users\thoma\source\repos\loCar\loCar\Server\obj\Debug\netcoreapp3.1\loCar.Server.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\loCar\loCar\Server\obj\Debug\netcoreapp3.1\loCar.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thoma\source\repos\loCar\loCar\Server\obj\Debug\netcoreapp3.1\loCar.Server.RazorAssemblyInfo.cache
+C:\Users\thoma\source\repos\loCar\loCar\Server\obj\Debug\netcoreapp3.1\loCar.Server.RazorAssemblyInfo.cs

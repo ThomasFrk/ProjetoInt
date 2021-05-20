@@ -1,0 +1,33 @@
+.carro li {
+    /* display: inline-block; */
+    text-align: center;
+    width: 100%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    list-style: none;
+}
+
+.carro .listaCarro {
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+
+carro .sedan {
+    padding: 0rem 1rem 1rem 1rem;
+}
+
+
+/* .flex {
+    display: flex;
+} */
+
+ .carro {
+    padding: 10px;
+} 
+

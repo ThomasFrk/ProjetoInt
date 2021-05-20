@@ -1,0 +1,77 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LoCar</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    @RenderSection("Styles", false);
+</head>
+
+<body>
+    <div class="row">
+        <div class="flex-container" style="flex-shrink: 1%; flex: grow 100%; ">
+            <div class="col-sm">
+                <div class="d-flex flex-column p-3 text-white"
+                    style="height:1000px;padding: 0px; margin-right: 0px; background-color: #1C4423;" >
+                    <hr>
+                    <ul class="nav nav-pills flex-column mb-auto">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link active">
+                                <svg class="bi me-2" width="16" height="16">
+                                    <use xlink:href="#home"></use>
+                                </svg>
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Catalogo/Catalogo" class="nav-link text-white">
+                                <svg class="bi me-2" width="16" height="16">
+                                    <use xlink:href="#Catalogo"></use>
+                                </svg>
+                                Catalogo
+                            </a>
+                        </li>
+                        
+                        <li>
+                            <a href="#" class="nav-link text-white">
+                                <svg class="bi me-2" width="16" height="16">
+                                    <use xlink:href="#grid"></use>
+                                </svg>
+                               Historico
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Perfil/Perfil" class="nav-link text-white">
+                                <svg class="bi me-2" width="16" height="16">
+                                    <use xlink:href="#people-circle"></use>
+                                </svg>
+                                Perfil
+                            </a>
+                        </li>
+                    </ul>
+                    <hr>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="flex-container">
+            <div class="col-sm">
+               
+                    <div class="row">@RenderBody()</div>
+            
+            </div>
+        </div>
+
+    </div>
+
+
+
+</body>
+
+
+</html>

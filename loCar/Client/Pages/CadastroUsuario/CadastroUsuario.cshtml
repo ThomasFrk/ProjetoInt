@@ -1,0 +1,155 @@
+﻿@page 
+@model Models.Cliente
+@using System.Net.Http
+@inject HttpClient Http
+
+
+<h3>Cadastro Vendedor</h3>
+<div class="card m-3">
+    <h4 class="card-header"></h4>
+    <div class="card-body">
+            <div class="form-group">
+                
+                    <div class="form-row">
+                        <div class="form-group col-5">
+                            <table>Id Vendedor</table>
+                            <InputText class="form-control" />
+                            
+                        </div>
+                        <div class="form-group col-5">
+                            <table>Nome</table>
+                            <InputText class="form-control"  />
+                           
+                        </div>
+                        <div class="form-group col-5">
+                            <table>Endereco</table>
+                            <InputText class="form-control"  />
+                        </div>
+                    </div>
+            </div>
+            <button class="btn btn-outline-primary" type="submit">Salvar</button>
+            <button class="btn btn-outline-secondary" type="reset">Cancel</button>
+        </EditForm>
+    </div>
+</div>
+
+
+
+
+@* @page
+@model Models.Cliente
+@* @namespace LoCar/Controllers; *@
+
+@* @{
+    ViewData["Title"] = "Cliente";
+    Layout = ""; 
+    
+}
+<h4>
+    Cliente
+</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nascimento" class="control-label"></label>
+                <input asp-for="Nascimento" class="form-control" />
+                <span asp-validation-for="Nascimento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cpf" class="control-label"></label>
+                <input asp-for="Cpf" class="form-control" />
+                <span asp-validation-for="Cpf" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Endereco" class="control-label"></label>
+                <input asp-for="Endereco" class="form-control" />
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Senha" class="control-label"></label>
+                <input asp-for="Senha" class="form-control" />
+                <span asp-validation-for="Senha" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div> *@ 
+
+@* 
+    <div class="card text-center" style="width: 900px;">
+        <div class="card-header">
+            Cadastro
+        </div>
+
+        <div class="card-body">
+
+
+            <form>
+
+                <div class="form-group row">
+                    <label for="name" class="col-sm-2 col-form-label">Nome</label>
+                    <div class="col-sm-10">
+                        <input type="name" class="form-control" id="Nome" placeholder="Nome Completo">
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <label for="email" class="col-sm-2 col-form-label">E-mail</label>
+                    <div class="col-sm-10">
+                        <input type="email" class="form-control" id="Email" placeholder="E-mail">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-2 col-form-label">Senha</label>
+                    <div class="col-sm-10">
+                        <input type="password" class="form-control" id="Senha" placeholder="Senha">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-2 col-form-label">CPF</label>
+                    <div class="col-sm-10">
+                        <input  class="form-control" id="Cpf" placeholder="CPF">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-2 col-form-label">Nascimento</label>
+                    <div class="col-sm-10">
+                        <input  class="form-control" id="Nascimento" placeholder="dd/mm/yyyy">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-2 col-form-label">Endereço</label>
+                    <div class="col-sm-10">
+                        <input  class="form-control" id="Endereco" placeholder="Endereço">
+                    </div>
+                </div>
+            </form>
+
+           <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div><br>
+
+        </div>
+    </div> *@
+    

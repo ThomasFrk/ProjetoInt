@@ -1,0 +1,9 @@
+C:\Users\thoma\source\repos\loCar\loCar\Shared\bin\Debug\netstandard2.1\loCar.Shared.deps.json
+C:\Users\thoma\source\repos\loCar\loCar\Shared\bin\Debug\netstandard2.1\loCar.Shared.dll
+C:\Users\thoma\source\repos\loCar\loCar\Shared\bin\Debug\netstandard2.1\loCar.Shared.pdb
+C:\Users\thoma\source\repos\loCar\loCar\Shared\obj\Debug\netstandard2.1\loCar.Shared.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\loCar\loCar\Shared\obj\Debug\netstandard2.1\loCar.Shared.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\loCar\loCar\Shared\obj\Debug\netstandard2.1\loCar.Shared.AssemblyInfo.cs
+C:\Users\thoma\source\repos\loCar\loCar\Shared\obj\Debug\netstandard2.1\loCar.Shared.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\loCar\loCar\Shared\obj\Debug\netstandard2.1\loCar.Shared.dll
+C:\Users\thoma\source\repos\loCar\loCar\Shared\obj\Debug\netstandard2.1\loCar.Shared.pdb
