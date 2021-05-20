@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Client\\loCar.Client.csproj": {}
+    "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\loCar.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Client\\loCar.Client.csproj": {
+    "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\loCar.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Client\\loCar.Client.csproj",
+        "projectUniqueName": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\loCar.Client.csproj",
         "projectName": "loCar.Client",
-        "projectPath": "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Client\\loCar.Client.csproj",
-        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Client\\obj\\",
+        "projectPath": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\loCar.Client.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Shared\\loCar.Shared.csproj": {
-                "projectPath": "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Shared\\loCar.Shared.csproj"
+              "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Shared\\loCar.Shared.csproj": {
+                "projectPath": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Shared\\loCar.Shared.csproj"
               }
             }
           }
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Components.Forms": {
               "target": "Package",
@@ -113,8 +113,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
@@ -122,17 +135,17 @@
         }
       }
     },
-    "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Shared\\loCar.Shared.csproj": {
+    "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Shared\\loCar.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Shared\\loCar.Shared.csproj",
+        "projectUniqueName": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Shared\\loCar.Shared.csproj",
         "projectName": "loCar.Shared",
-        "projectPath": "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Shared\\loCar.Shared.csproj",
-        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\source\\repos\\loCar\\loCar\\Shared\\obj\\",
+        "projectPath": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Shared\\loCar.Shared.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

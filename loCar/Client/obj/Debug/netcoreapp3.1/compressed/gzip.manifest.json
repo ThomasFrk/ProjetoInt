@@ -1,0 +1,594 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\_Ac9TZMAM-hMcQ_0inqe_RG8z5KHXQQq0vROgFsSNCU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\loCar.Client.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/loCar.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Net.Http.Json.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Buffers.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Buffers.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\mscorlib.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Threading.Tasks.Extensions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Threading.Tasks.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Memory.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Memory.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\rbhIPfR7abpdDjRyI5On_Rq8_N1bOPuTlXjsQmrDkHU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Text.Json.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\Pt0gKZW54C_3DsLw_QRTQSP_ycXbOGSm2UWYSNZZYQ0=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Reflection.Primitives.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Reflection.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\mzuLugvmIOgYjOk4f3eQas5TIH2wER7oBvjOd1j22ps=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Threading.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Threading.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Core.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\WebAssembly.Net.WebSockets.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/WebAssembly.Net.WebSockets.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\netstandard.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/netstandard.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Xml.Linq.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Xml.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Xml.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Transactions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Transactions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ServiceModel.Internals.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ServiceModel.Internals.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Numerics.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Numerics.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Net.Http.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ComponentModel.Composition.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ComponentModel.Composition.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.IO.Compression.FileSystem.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.IO.Compression.FileSystem.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.IO.Compression.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.IO.Compression.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Drawing.Common.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Drawing.Common.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Data.DataSetExtensions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Data.DataSetExtensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Data.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Data.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Mono.Security.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Mono.Security.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\yTznKFXYjwtGYUGUdxYEw8gA1A_IWlMYOncOmAAyJas=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Reflection.Emit.ILGeneration.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Reflection.Emit.ILGeneration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\BCNQuQIDEqyAAs5OZBfGJWZ2pzbzCJXf-rZmstivU1o=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Reflection.Emit.Lightweight.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Reflection.Emit.Lightweight.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\Pts2S7BakHY8LACDy5I26bdgF2CrhSoTCirY4R-_sBE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Collections.Concurrent.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Collections.Concurrent.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Numerics.Vectors.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\z8iFDTIYfU-3d7Ovx4YrLVKTe9yU9vK9m4VWuqBMIqw=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Text.Encoding.Extensions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Text.Encoding.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\tFMMNru1KjM9tY0dph3potA-qlmOtgZOwHLp_imUF7Y=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Diagnostics.Debug.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Diagnostics.Debug.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\dqzLPW8oFg5YVC2_79UXgMTdvPsrnepDLYkV0Ipnmbo=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Threading.Tasks.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Threading.Tasks.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\zWDzFtXZzC_KLMGVRm7c4nLj3X7VnzT9SMdxCVqb3dE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Collections.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Collections.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\XkwV6tmnQX0dMXB_uw2xcJyV1fLV2dbV3c7VqW0OvgY=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\U4q43ZeuBEBaCygKJwr18fjDYwnFv22MHuvMVqnpNzI=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Resources.ResourceManager.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Resources.ResourceManager.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Runtime.Extensions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Runtime.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\6CpyRQAYrVPJfNYBKH0K9lWX_rNPO15lwNhGHPmvxtk=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Runtime.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Runtime.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\O_AClmxYmKcKCv-PvQk4tx2T7TlTwypImRCpMNwiwms=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\qFGxpTi0GcZF4VVvCnFiXxTSkE3-I-ihxD1Va5UaQII=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\egPOud7Mcxx-20iAZiekEmazNYxAwi8HO1Z5_a4Ikww=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Linq.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Linq.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\9wi0kDjDIr2As0DGysE9JuDt-uTnuiip7mf4UlXg_BI=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Linq.Expressions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Linq.Expressions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\lMQD7N6F0vEg_gIStqsI8eXaU8ItOEQZW02TsQVvoOk=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ComponentModel.Annotations.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ComponentModel.Annotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\Yn0VR2u4EBoW9ohyaUfOcwgQL6dfcH9iG6mFB8FcsxY=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\j5QJ1kfdaGNztuV3Mt3g3soliZlv-iZA5H2spmGnlEc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Runtime.InteropServices.RuntimeInformation.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.RuntimeInformation.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\158xXzg17TGmKMk8Its2Zi5awTua_JPcxgL49yWK2cI=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\iRJn1bctufxFpdvL9HsDYr8vyHJ43sN8tu_e9uvVEbs=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ObjectModel.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ObjectModel.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\6cxIu3mlJOB9Actp4JdoEz-xMT0vnQvnxVMtIobv6EU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ComponentModel.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ComponentModel.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\RdBPwqgnAdTg7p1svJWuRNJXNqg0C-quM2upT5VUjCQ=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ComponentModel.TypeConverter.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ComponentModel.TypeConverter.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\uKa-meN1SChmvmww-dDOkH2nde_fpVTP465OlRvBNl0=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\loCar.Shared.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/loCar.Shared.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\r3eK21EeUlpQgq495aGOnrHq28SmWZCzSLM1-zKdWlw=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\eGkG7ASpnEG2Atavo-ISr5rWYhnYJE9PnXY3CdmBEPQ=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Threading.ThreadPool.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Threading.ThreadPool.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\g3D7CEj2L0Qctx7Es-Pvvvauld0RQjyo76PPB99L9Qk=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Diagnostics.Tracing.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Diagnostics.Tracing.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\l0iT5vDl2qPQRkzP3C2UQi8S7I7ji-0tl9fPh8MDLP8=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\K_dAcjho5o6DrY4wl56yc1slHlUrAToGn15tCKRW76o=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\7B5twn0TiCQeh-eyv8YeT4CmNKua-kM-Upfm5KCtE1A=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\kUxnAo-8zsh2QIOQvdK8PnGtDcHaF1_5xv_H9-ArIBQ=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\UX1IWjKiaIa0op0yvsyecrWgoRwERJ07vxcx0eRkKvc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.FileExtensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\0ohVYRI6PuBfqKMapEmY5Oi3pImDZfhTLw5evJsfue0=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.IO.FileSystem.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.IO.FileSystem.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\jIMcnMXsruhc9751AB7zE6e-k2GtjeGkHxB-_BFzOZg=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Threading.Thread.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Threading.Thread.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\2R3mCgQHlf34a3k1B2-cQ2QgZF5FqnG86IB21Uwr-MI=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Physical.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Physical.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\5vdR44YpzFJeJRtUB2XvzsSinXEV6ykSV6RBwVfJgac=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Security.Cryptography.Primitives.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Security.Cryptography.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\qWCFPou-baHZc_vApbi0rxG3O9e4C9D0hPgt0oJu9Ts=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.ComponentModel.Primitives.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.ComponentModel.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\r7N9d3ZA86mYYoZ2R39WCc9Od7-Utt_ZvaYSLzZmcaE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Security.Cryptography.Algorithms.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Security.Cryptography.Algorithms.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.FileSystemGlobbing.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileSystemGlobbing.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\w5_opwZzOg1NxSDigsUWo5_anKj-aoAT_MasNNfgObo=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.IO.FileSystem.Watcher.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.IO.FileSystem.Watcher.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\6z0uBocwN9NnWhcjgxeDh1EOT554jBBDM4go8iZqnuE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\54f_9zkI251CBmStMMq5iIhN1N15W_tyo0Qcg1QlQPA=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Threading.Timer.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Threading.Timer.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\XpJlY8fda0Fp6jT0Q79G0CGH6jD4BWOkTpDYMLQmVfI=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\oRVEzK29VdKXybukbg11x97i3xs9k3uowSgJGEE_LDc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\u4cE3FU1FIkEZ7Stwz8qKhDOmchDBwADjxBTVqzrt5g=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\abtsWYHyiDSnb3-mrnQHPAAVb7iJKoWQPQYK_gLSn8w=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Mvc.Core.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Mvc.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\NP2svkDxlIVJsMiWAmj552NCYo4j7YnOUr2_jkz5_pc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authentication.Core.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authentication.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\qFKmKNr9iAZiZxOVvLJBfMhkKfDy1GvY81fHh1hiphU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\J2xQUZ4BD6tsrQkvGS5HDQfkTGMzmaS76TA9nJrtCpg=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Features.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Features.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\iw51tdKcETC5QqlJLWett1iPlLZgUrRdZfkV7EoaD4k=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authentication.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authentication.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\RH648J556xp2UcR5qr7b4zB7s4gMzwxjFHGxfZc7I0A=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\D5akJeBd7NNITuzAXxlX7zl2jfsc4uTKyeEKwwNhqoo=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.WebUtilities.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.WebUtilities.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\P66ftDrXwc6ayND8uYzIk0CPQy1GjNZAPHx9RMhi3V4=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Net.Http.Headers.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Net.Http.Headers.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\XWpybHUpZ8wVphhIR9fG6hmRgW2ZyVhXT6PfvOI7tsg=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyModel.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyModel.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\vrQresrQjYlvmLF1TcQFTDnoyCPKWUc39vSvo5EfwmQ=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.AppContext.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.AppContext.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\LDxu9Sj9OxSBhmj-rzZPAmQaYAeuOf2ZCFbvrFIHC6k=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.IO.FileSystem.Primitives.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.IO.FileSystem.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\gkIipvi93hhq6PE_WvoKU82xCfBcfl2PTHNjD3enxt4=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Newtonsoft.Json.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Newtonsoft.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\CWadMXLl7iJZmsOz7PzKreH2b5rpyAFY8KYvg17YAv8=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.IO.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.IO.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\8Q_uKcqkDjFjcXfcYU073dQlKb5IRta-UHFtV3Tjz9s=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Reflection.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Reflection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\ucB9cWNpHPmRNINsdPy37WDpMEpF4YCZDo21haOYFl4=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.DotNet.PlatformAbstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.DotNet.PlatformAbstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\XAnEkn2DkDU-Xn588HKF6xZ5f3g9Eyzmw3DjEGtn2lM=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Runtime.InteropServices.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Runtime.InteropServices.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\4f7xvTVUxi0h0P0Hci5blPefIu8mspp-qgcIrxhfvdU=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authorization.Policy.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.Policy.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\b9r9OnchriW53Ajn7_kL0J9jtKRa9pjssrydM1SfWpc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\2gMAC6_7xAltgI8KZyZGF1BMQ-d2Yk8e9DpbPloLhQc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Security.Principal.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Security.Principal.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\oSqrhbtJYES0rsPPUeCKNNn2gFUixQKYJ9WFYqqyXAE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Security.Claims.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Security.Claims.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\cIjljPrLVkdGRiTVCWIFxfWOkp2_pc89gj9de3kWEuc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\4VEnr-VXawxchLjnFr86t8XA5fF3ZLb61F6I54GBAoQ=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Hosting.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Hosting.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\3FWyABkOEBeAcg6oyNO1PytWU_vm8OBnbxtkWVup0TI=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\MyQpxJogZX2HZkOwjTQKfhArqV0-EJJxgpF-E_YjP2w=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Diagnostics.DiagnosticSource.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Diagnostics.DiagnosticSource.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\rL7yDIoSBIK2HEpXD-iOhoUrVkI3rsR07sn5BA5ddUg=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\UCVqOmu_z9-M5Wahsgr7zKRWdGQWNvXGWLlEa1gkFuw=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.Extensions.ObjectPool.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.ObjectPool.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\2ZTJ3DDWIlT8zmUz46ry3ejC_qjXXqokBlQMq3pQ0ac=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Mvc.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Mvc.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\qZRVEWfcR_k4p8USVOwZOOhVCCUvpVy2lySCkukS8fs=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Routing.Abstractions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Routing.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\hweS4gRZD13y7p9975vuZvS08549STJlBClVrHiCMXc=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Routing.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Routing.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\dsGZ_sGJdrYngMg72CIF31THFtl6ovcKTjtGtj9orn8=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\Microsoft.AspNetCore.Http.Extensions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\YsVP1MH7elMIe4iUnDj_hJHfSvMWW8X4hzNlc2bvJ4k=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Text.RegularExpressions.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Text.RegularExpressions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\lLWJgnbDM6iLIBomx6JJVxiWHk5hFYXAM3RmjE59VrE=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\System.Collections.Specialized.dll",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/System.Collections.Specialized.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\XySW0jeMI0J-w0AC__Sr03qKYPUYb_dvOSx0o1SBpt4=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\loCar.Client.pdb",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/loCar.Client.pdb.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\xYPswK9p6FwxOV5VlV7E4GD1M1UVJWR4SuFRHjrQ_0c=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\unlinked\\loCar.Shared.pdb",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/_bin\/loCar.Shared.pdb.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netcoreapp3.1\\integrity\\CSgZD4hHNzZl4rP88lNh5T2LSdDyysQYc29PATcV294=.hash",
+      "Source": "C:\\ProjetoIntegrador\\DesafioFilmeCheck\\ProjetoInt\\loCar\\Client\\obj\\Debug\\netcoreapp3.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Debug\\netcoreapp3.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}
